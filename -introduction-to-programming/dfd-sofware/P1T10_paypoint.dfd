@@ -1,0 +1,72 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+" paysoft v.1.0_maker:luis mgl romero_                 description:this sofware calculate the invoice 4 products"
+4
+1
+29
+"input/type the firts produc"
+5
+1
+2
+p1
+4
+1
+27
+"input/type the tow produc"
+5
+1
+2
+p2
+4
+1
+29
+"input/type the three produc"
+5
+1
+2
+p3
+4
+1
+28
+"input/type the four produc"
+5
+1
+2
+p4
+7
+0
+1
+32
+p1<=0 OR p2<=0 OR p3<=0 OR p4<=0
+6
+3
+6
+sumpro
+11
+p1+p2+p3+p4
+5
+iva19
+11
+sumpro*0.19
+5
+total
+12
+sumpro+iva19
+4
+1
+87
+"the groos value is:",sumpro,"the tax iva 19%is"   ,iva19,"the total invoice is", total
+13
+4
+1
+45
+"err: som ot the products are less than zero"
+13
+1
