@@ -1,0 +1,53 @@
+ Dfd  (c)
+1
+1
+1
+0
+0
+4
+1
+140
+"Este programa fue creado por luia miguel romero y determina cuantos productos compro cuanto fue el total a pagar y el valor de cada producto"
+5
+1
+1
+N
+6
+3
+12
+total_compra
+1
+0
+14
+total_producto
+1
+0
+8
+contador
+1
+0
+9
+1
+10
+N>=500.000
+4
+1
+41
+"Ingrese el valor del siguiente producto"
+5
+1
+1
+N
+6
+2
+12
+total_compra
+25
+total_producto + contador
+8
+contador
+12
+contador + 1
+11
+1
+© 2021 GitHub, Inc.
