@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+281
+"agesoft v1.0                                                         maker:luis mgl romero b                                        this sofware use the year of birth to calculate year of a person "                                                                                  
+5
+1
+11
+v_yearbirth
+7
+0
+1
+16
+v_yearbirth>2021
+6
+1
+5
+v_Age
+17
+2021- v_yearbirth
+4
+1
+44
+"the age of person is:" ,v_age,  "years old"
+13
+4
+1
+81
+" erro:this year is not valid_the yeard of bith should  should be less than 2021"
+13
+1
