@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+"Este programa fue creado por luis miguel romero: este programa permite calcular el volumen de un cilindro"
+4
+1
+18
+"Ingrese el radio"
+5
+1
+5
+Radio
+4
+1
+25
+"Ingrese la altura en cm"
+5
+1
+6
+Altura
+6
+1
+7
+volumen
+29
+3.141592*(radio*radio)*altura
+4
+1
+32
+"El volumen es:", volumen, "cm3"
+1
